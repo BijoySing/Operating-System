@@ -35,6 +35,13 @@ for output
 
 <b>for print new line</b>
 
+`` 
+#include<unistd.h>
+#include<stdio.h>
+int main()
+{
+int n;
+write(1,"welcome to learn OS\n",20);
+}
 ``
-
 
