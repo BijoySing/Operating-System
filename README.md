@@ -4,7 +4,6 @@ Algo
 -terminal
 
 -create a program->
-
 ``
 -nano (file name).c(using c language)
 ``
