@@ -4,6 +4,7 @@ Algo
 -terminal
 
 -create a program->
+
 ``
 -nano (file name).c(using c language)
 ``
@@ -31,3 +32,9 @@ for output
 
 ``-./a.out
 ``
+
+<b>for print new line</b>
+
+``
+
+
