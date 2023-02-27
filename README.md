@@ -37,11 +37,17 @@ for output
 
 `` 
  #include<unistd.h>
+ 
  #include<stdio.h>
+ 
  int main()
+ 
  {
+ 
  int n;
+ 
  write(1,"welcome to learn OS\n",20);
+ 
  }
 ``
 
