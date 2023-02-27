@@ -11,7 +11,7 @@ Algo
  
 write a simple program;
 
-``
+`` 
 #include<unistd.h>
 
 int main()
@@ -27,6 +27,7 @@ for compile this code write
 -gcc (file name)
 ``
 for output
+
 
 ``-./a.out
 ``
