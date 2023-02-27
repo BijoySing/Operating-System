@@ -28,7 +28,5 @@ for compile this code write
 ``
 for output
 
-``
--./a.out
-
+``-./a.out
 ``
